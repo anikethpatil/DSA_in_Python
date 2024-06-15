@@ -18,6 +18,6 @@ if __name__=='__main__':
         print("Found at position",q)
 
 '''
-best case=O(n)
+best case=O(1)
 worst case=O(logn)
 '''
